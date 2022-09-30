@@ -1,2 +1,2 @@
 # yet-another-weather-app
-a simple eeather app with vanilla javajcript
+a simple weather app using vanilla javajcript
