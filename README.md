@@ -1,3 +1,3 @@
-# YAWA | A simple weather app
+# JAWA | A simple weather app
 live now :
-https://adityeah2k.github.io/yet-another-weather-app/
+https://adityeah2k.github.io/just-another-weather-app/
